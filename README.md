@@ -16,8 +16,11 @@ If the hostspot mode doesn't work for you please go to settings and send a log a
 
 git clone won't work before the initial commit
 Initial commit:
+
+```
 git init
 git add .
 git commit -m "initial commit"
 git remote add origin ssh://[username]@[git server hostname]:[port number]/[repo name].git
 git push origin master
+```
