@@ -1,10 +1,12 @@
-Andoird-Gitrepo
-======
 
 # Notes:
 * It still do not know how to fix the bugs mentioned here https://panmux.github.io/pnote/2020-11-15-Git%20server%20on%20Android
 
 After successfully `git push`, still can not see changes on Android.
+
+
+Andoird-Gitrepo
+======
 
 
 Git server on Android based on Gidder 
